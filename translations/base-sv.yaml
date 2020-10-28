@@ -305,30 +305,29 @@ ingame:
                 för att klara målet snabbare.<br><br>Tips: Håll
                 <strong>SKIFT</strong> för att placera flera extraktörer, och
                 använd <strong>R</strong> för att rotera dem."
-            2_1_place_cutter: "Now place a <strong>Cutter</strong> to cut the circles in two
-                halves!<br><br> PS: The cutter always cuts from <strong>top to
-                bottom</strong> regardless of its orientation."
-            2_2_place_trash: The cutter can <strong>clog and stall</strong>!<br><br> Use a
-                <strong>trash</strong> to get rid of the currently (!) not
-                needed waste.
-            2_3_more_cutters: "Good job! Now place <strong>2 more cutters</strong> to speed
-                up this slow process!<br><br> PS: Use the <strong>0-9
-                hotkeys</strong> to access buildings faster!"
-            3_1_rectangles: "Now let's extract some rectangles! <strong>Build 4
-                extractors</strong> and connect them to the hub.<br><br> PS:
-                Hold <strong>SHIFT</strong> while dragging a belt to activate
-                the belt planner!"
-            21_1_place_quad_painter: Place the <strong>quad painter</strong> and get some
-                <strong>circles</strong>, <strong>white</strong> and
-                <strong>red</strong> color!
-            21_2_switch_to_wires: Switch to the wires layer by pressing
-                <strong>E</strong>!<br><br> Then <strong>connect all four
-                inputs</strong> of the painter with cables!
-            21_3_place_button: Awesome! Now place a <strong>Switch</strong> and connect it
-                with wires!
-            21_4_press_button: "Press the switch to make it <strong>emit a truthy
-                signal</strong> and thus activate the painter.<br><br> PS: You
-                don't have to connect all inputs! Try wiring only two."
+            2_1_place_cutter: "Placera nu en <strong>Klippare</strong> för att klippa cirklarna i två halvor.
+                <br><br> PS: Klipparen klipper alltid <strong>uppifrån och ner</strong> oavsett hur den är roterad."
+            2_2_place_trash: Klipparen kan bli <strong>igentäppt och stanna</strong>!<br><br> Använd en
+                <strong>skräphanterare</strong> för att bli av med överblivna bitar du inte
+                behöver just nu (!).
+            2_3_more_cutters: "Bra jobbat! Placera nu <strong>2 till klippare</strong> för att skynda på
+                den här långsamma processen!<br><br> PS: Använd <strong>snabbtangenterna 0-9
+                </strong> för att komma åt placeringen av byggnader fortare!"
+            3_1_rectangles: "Låt oss nu utvinna lite rektanglar! <strong>Bygg 4
+                extraktorer</strong> och anslut dom till hubben.<br><br> PS:
+                Håll inne <strong>SKIFT</strong> medans du drar ett bälte för att aktivera 
+                bältes planeraren!
+            21_1_place_quad_painter: Placera <strong>Färgläggaren (Quad)</strong> och fixa lite
+                <strong>cirklar</strong>, <strong>vit</strong> och
+                <strong>röd</strong> färg!
+            21_2_switch_to_wires: Byt till kabellagret genom att trycka
+                <strong>E</strong>!<br><br> Efter det så <strong>anslut färgläggarens fyra
+                inmatningar</strong> med kablar!
+            21_3_place_button: Fantastiskt! Placera nu en <strong>Spak</strong> och anslut den
+                via kablar!
+            21_4_press_button: "Klicka på spaken för att få den att <strong>sända en sann
+                signal</strong> och därigenom aktivera färgläggaren.<br><br> PS: Du
+                behöver inte ansluta alla inmatningar! Testa att bara koppla två av dom."
     colors:
         red: Röd
         green: Grön
